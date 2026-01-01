@@ -32,3 +32,8 @@ xóa tuốt sạch tất cả nội dung có sẵn
 click Ctrl + S.
 
 xong quay lại trang chéc nhập liệu của công ty F5 lại
+
+
+Phím 1 thì là cho tài liệu ok rồi, phím 2 thì cho tài liệu phải xem lại
+
+chúc mọi người nghỉ lễ vui vẻ
