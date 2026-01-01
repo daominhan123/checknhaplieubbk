@@ -24,7 +24,7 @@ Click vào biểu tượng đó và chọn "Create a new script..." .
 
 xóa tuốt sạch tất cả nội dung có sẵn 
 
-3: Dán đoạn mã ở file chéc bbk vào
+3: Dán đoạn mã ở file chéc bbk-1.1.user.js vào
 
 4: Lưu và Hoàn tất
 
